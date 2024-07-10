@@ -1,5 +1,4 @@
-# Exam #N: Gioco dei meme
-## Student: s329986 Vaglio Fabiano
+# Gioco dei meme
 
 ## Indice 
 0. [Descrizione](#descrizione)
@@ -142,8 +141,8 @@ Il gioco si basa su un archivio di diverse immagini di meme. Ogni immagine di me
 
 ### Screenshot dell'Applicazione
 
-![Screenshot 1](./client/immagini/screenshotReadMe/screenshot1.png)
-![Screenshot 2](./client/immagini/screenshotReadMe/screenshot2.png)
+![Screenshot 1](./immagini/screenshotReadMe/screenshot1.png)
+![Screenshot 2](./immagini/screenshotReadMe/screenshot2.png)
 
 
 ### Credenziali Utenti Registrati
