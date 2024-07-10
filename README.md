@@ -1,4 +1,4 @@
-# Exam #N: Gioco dei meme
+# Exam: Gioco dei meme
 ## Student: s329986 Vaglio Fabiano
 
 ## Indice 
